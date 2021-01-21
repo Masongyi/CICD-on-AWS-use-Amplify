@@ -7,7 +7,7 @@ npm init react-app my-app
 ```
 ## Set-up CI/CD pipline
 
-Connect [AWS Amplify](https://aws.amazon.com/amplify/)
+Connect [AWS Amplify](https://aws.amazon.com/amplify/) to github
 
 
   
