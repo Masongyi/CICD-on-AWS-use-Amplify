@@ -6,9 +6,9 @@ Use [Create React App](https://github.com/facebook/create-react-app) to quickly 
 npm init react-app my-app
 ```
 ## Set-up CI/CD pipline
-```bash
-connect [AWS Amplify](https://aws.amazon.com/amplify/)
-```
+
+Connect [AWS Amplify](https://aws.amazon.com/amplify/)
+
 
   
 
